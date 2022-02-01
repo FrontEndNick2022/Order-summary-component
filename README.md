@@ -1,9 +1,7 @@
-<img align="center" src="https://github.com/FrontEndNick2022/Order-summary-component/blob/main/Preview.JPG?raw=true" ></img>
+<img src="https://github.com/FrontEndNick2022/Order-summary-component/blob/main/Preview.JPG?raw=true" ></img>
 
 <h1 align="center">Order Summary Component</h1>
 
-<br>
-<br>
 <br>
 
 ## Overview
@@ -23,7 +21,7 @@ I found the placement of the background image to be a very painful task. It took
 
 ## Useful resources
 
-AN
+NA
 
 ## Acknowledgments
 
