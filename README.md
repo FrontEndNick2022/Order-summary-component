@@ -1,4 +1,4 @@
-<img src="https://github.com/FrontEndNick2022/Order-summary-component/blob/main/Preview.JPG?raw=true" ></img>
+<img src="https://github.com/FrontEndNick2022/Order-summary-component/blob/main/Preview2.JPG?raw=true" ></img>
 
 <h1 align="center">Order Summary Component</h1>
 
