@@ -47,6 +47,7 @@ img {
 
 .text-dark {
     color: var(--neutral-dark);
+    font-weight: 700;
 }
 .text-light {
     color: var(--neutral-desaturated);
@@ -88,7 +89,7 @@ body {
 .card {
     background: #fff;
     border-radius: 1rem;
-    width: 350px;
+    max-width: 350px;
     text-align: center;
     box-shadow: 0px 7px 10px -5px var(--neutral-desaturated);
 }
@@ -148,8 +149,7 @@ body {
     border-radius: 1rem;
     cursor: pointer;
     margin-bottom: 2rem;
-    box-shadow: 0px 10px 13px -7px var(--neutral-desaturated),
-        5px 5px 15px 5px rgba(0, 0, 0, 0);
+    box-shadow: 0px 10px 13px -7px var(--neutral-desaturated), 5px 5px 15px 5px rgba(0, 0, 0, 0);
 }
 
 .cta:hover {
